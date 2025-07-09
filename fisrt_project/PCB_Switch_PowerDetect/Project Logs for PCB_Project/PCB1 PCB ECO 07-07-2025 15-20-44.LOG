@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=VDD Pin=sw1A-6
+Added Pin To Net: NetName=VDD Pin=sw1B-6
+Added Pin To Net: NetName=sw_ctrl1 Pin=Csw1A-2
+Added Pin To Net: NetName=sw_ctrl1 Pin=Csw1B-2
+Added Pin To Net: NetName=sw_ctrl1 Pin=sw1A-4
+Added Pin To Net: NetName=sw_ctrl1 Pin=sw1B-4
+Added Net: Name=sw_ctrl1
+Added Pin To Net: NetName=sw_ctrl2 Pin=Csw2A-2
+Added Pin To Net: NetName=sw_ctrl2 Pin=Csw2B-2
+Added Pin To Net: NetName=sw_ctrl2 Pin=sw1A-5
+Added Pin To Net: NetName=sw_ctrl2 Pin=sw1B-5
+Added Net: Name=sw_ctrl2

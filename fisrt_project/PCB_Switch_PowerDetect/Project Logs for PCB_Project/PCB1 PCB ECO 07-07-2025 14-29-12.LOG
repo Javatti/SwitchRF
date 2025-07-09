@@ -1,0 +1,244 @@
+Added Component: Designator=C1A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C1B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C5A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1pF"; VariantName = "[No Variations]"
+Added Component: Designator=C5B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7A(CAPP 1206 (3216X18L) Size A)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Component: Designator=C7B(CAPP 1206 (3216X18L) Size A)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Component: Designator=Csw1A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Csw1B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Csw2A(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Csw2B(C0402)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=J1A(UFL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our Website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Added Component: Designator=J1B(UFL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our Website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Added Component: Designator=J2A(UFL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our Website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Added Component: Designator=J2B(UFL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our Website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Added Component: Designator=J3A(UFL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our Website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Added Component: Designator=J3B(UFL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our Website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Added Component: Designator=J4A(HDRS_M_2X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM_2X3"; VariantName = "[No Variations]"
+Added Component: Designator=J4B(HDRS_M_2X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Our website:"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.spaceomid.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM_2X3"; VariantName = "[No Variations]"
+Added Component: Designator=R1A(SMD-0402-RES)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1B(SMD-0402-RES)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2A(SMD-0402-RES)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2B(SMD-0402-RES)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3A(SMD-0402-RES)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R3B(SMD-0402-RES)
+Add component (AddParameter): Name = "Designed by"; Value = "MJKhodami"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=sw1A(QFN50P200X200X65-13N)
+Added Component: Designator=sw1B(QFN50P200X200X65-13N)
+Added Component: Designator=U1A(BGA6N40P3X2_124X84X67N)
+Added Component: Designator=U1B(BGA6N40P3X2_124X84X67N)
+Added Pin To Net: NetName=GND Pin=C1A-1
+Added Pin To Net: NetName=GND Pin=C1B-1
+Added Pin To Net: NetName=GND Pin=C2A-2
+Added Pin To Net: NetName=GND Pin=C2B-2
+Added Pin To Net: NetName=GND Pin=C3A-2
+Added Pin To Net: NetName=GND Pin=C3B-2
+Added Pin To Net: NetName=GND Pin=C4A-1
+Added Pin To Net: NetName=GND Pin=C4B-1
+Added Pin To Net: NetName=GND Pin=C5A-1
+Added Pin To Net: NetName=GND Pin=C5B-1
+Added Pin To Net: NetName=GND Pin=C7A-1
+Added Pin To Net: NetName=GND Pin=C7B-1
+Added Pin To Net: NetName=GND Pin=Csw1A-1
+Added Pin To Net: NetName=GND Pin=Csw1B-1
+Added Pin To Net: NetName=GND Pin=Csw2A-1
+Added Pin To Net: NetName=GND Pin=Csw2B-1
+Added Pin To Net: NetName=GND Pin=J1A-2
+Added Pin To Net: NetName=GND Pin=J1A-3
+Added Pin To Net: NetName=GND Pin=J1B-2
+Added Pin To Net: NetName=GND Pin=J1B-3
+Added Pin To Net: NetName=GND Pin=J2A-3
+Added Pin To Net: NetName=GND Pin=J2B-3
+Added Pin To Net: NetName=GND Pin=J3A-2
+Added Pin To Net: NetName=GND Pin=J3A-3
+Added Pin To Net: NetName=GND Pin=J3B-2
+Added Pin To Net: NetName=GND Pin=J3B-3
+Added Pin To Net: NetName=GND Pin=J4A-5
+Added Pin To Net: NetName=GND Pin=J4B-5
+Added Pin To Net: NetName=GND Pin=R2A-1
+Added Pin To Net: NetName=GND Pin=R2B-1
+Added Pin To Net: NetName=GND Pin=sw1A-GND
+Added Pin To Net: NetName=GND Pin=sw1A-GND
+Added Pin To Net: NetName=GND Pin=sw1A-GND
+Added Pin To Net: NetName=GND Pin=sw1A-GND
+Added Pin To Net: NetName=GND Pin=sw1A-GND
+Added Pin To Net: NetName=GND Pin=sw1B-GND
+Added Pin To Net: NetName=GND Pin=sw1B-GND
+Added Pin To Net: NetName=GND Pin=sw1B-GND
+Added Pin To Net: NetName=GND Pin=sw1B-GND
+Added Pin To Net: NetName=GND Pin=sw1B-GND
+Added Pin To Net: NetName=GND Pin=U1A-C1
+Added Pin To Net: NetName=GND Pin=U1B-C1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1A_2 Pin=C1A-2
+Added Pin To Net: NetName=NetC1A_2 Pin=J4A-2
+Added Pin To Net: NetName=NetC1A_2 Pin=J4A-4
+Added Pin To Net: NetName=NetC1A_2 Pin=J4A-6
+Added Pin To Net: NetName=NetC1A_2 Pin=R2A-2
+Added Net: Name=NetC1A_2
+Added Pin To Net: NetName=NetC1B_2 Pin=C1B-2
+Added Pin To Net: NetName=NetC1B_2 Pin=J4B-2
+Added Pin To Net: NetName=NetC1B_2 Pin=J4B-4
+Added Pin To Net: NetName=NetC1B_2 Pin=J4B-6
+Added Pin To Net: NetName=NetC1B_2 Pin=R2B-2
+Added Net: Name=NetC1B_2
+Added Pin To Net: NetName=NetC4A_2 Pin=C4A-2
+Added Pin To Net: NetName=NetC4A_2 Pin=U1A-A2
+Added Net: Name=NetC4A_2
+Added Pin To Net: NetName=NetC4B_2 Pin=C4B-2
+Added Pin To Net: NetName=NetC4B_2 Pin=U1B-A2
+Added Net: Name=NetC4B_2
+Added Pin To Net: NetName=NetC5A_2 Pin=C5A-2
+Added Pin To Net: NetName=NetC5A_2 Pin=U1A-B2
+Added Net: Name=NetC5A_2
+Added Pin To Net: NetName=NetC5B_2 Pin=C5B-2
+Added Pin To Net: NetName=NetC5B_2 Pin=U1B-B2
+Added Net: Name=NetC5B_2
+Added Pin To Net: NetName=NetC6A_2 Pin=C6A-2
+Added Pin To Net: NetName=NetC6A_2 Pin=R1A-2
+Added Pin To Net: NetName=NetC6A_2 Pin=U1A-C2
+Added Net: Name=NetC6A_2
+Added Pin To Net: NetName=NetC6B_2 Pin=C6B-2
+Added Pin To Net: NetName=NetC6B_2 Pin=R1B-2
+Added Pin To Net: NetName=NetC6B_2 Pin=U1B-C2
+Added Net: Name=NetC6B_2
+Added Pin To Net: NetName=NetCsw1A_2 Pin=Csw1A-2
+Added Pin To Net: NetName=NetCsw1A_2 Pin=sw1A-4
+Added Net: Name=NetCsw1A_2
+Added Pin To Net: NetName=NetCsw1B_2 Pin=Csw1B-2
+Added Pin To Net: NetName=NetCsw1B_2 Pin=sw1B-4
+Added Net: Name=NetCsw1B_2
+Added Pin To Net: NetName=NetCsw2A_2 Pin=Csw2A-2
+Added Pin To Net: NetName=NetCsw2A_2 Pin=sw1A-5
+Added Net: Name=NetCsw2A_2
+Added Pin To Net: NetName=NetCsw2B_2 Pin=Csw2B-2
+Added Pin To Net: NetName=NetCsw2B_2 Pin=sw1B-5
+Added Net: Name=NetCsw2B_2
+Added Pin To Net: NetName=NetJ1A_1 Pin=J1A-1
+Added Pin To Net: NetName=NetJ1A_1 Pin=sw1A-1
+Added Net: Name=NetJ1A_1
+Added Pin To Net: NetName=NetJ1B_1 Pin=J1B-1
+Added Pin To Net: NetName=NetJ1B_1 Pin=sw1B-1
+Added Net: Name=NetJ1B_1
+Added Pin To Net: NetName=NetJ2A_1 Pin=J2A-1
+Added Pin To Net: NetName=NetJ2A_1 Pin=sw1A-9
+Added Net: Name=NetJ2A_1
+Added Pin To Net: NetName=NetJ2B_1 Pin=J2B-1
+Added Pin To Net: NetName=NetJ2B_1 Pin=sw1B-9
+Added Net: Name=NetJ2B_1
+Added Pin To Net: NetName=NetJ3A_1 Pin=J3A-1
+Added Pin To Net: NetName=NetJ3A_1 Pin=sw1A-3
+Added Net: Name=NetJ3A_1
+Added Pin To Net: NetName=NetJ3B_1 Pin=J3B-1
+Added Pin To Net: NetName=NetJ3B_1 Pin=sw1B-3
+Added Net: Name=NetJ3B_1
+Added Pin To Net: NetName=NetJ4A_1 Pin=J4A-1
+Added Pin To Net: NetName=NetJ4A_1 Pin=R3A-1
+Added Net: Name=NetJ4A_1
+Added Pin To Net: NetName=NetJ4B_1 Pin=J4B-1
+Added Pin To Net: NetName=NetJ4B_1 Pin=R3B-1
+Added Net: Name=NetJ4B_1
+Added Pin To Net: NetName=RFOUT_A Pin=sw1A-11
+Added Pin To Net: NetName=RFOUT_A Pin=U1A-B1
+Added Net: Name=RFOUT_A
+Added Pin To Net: NetName=RFOUT_B Pin=sw1B-11
+Added Pin To Net: NetName=RFOUT_B Pin=U1B-B1
+Added Net: Name=RFOUT_B
+Added Pin To Net: NetName=VDD Pin=C2A-1
+Added Pin To Net: NetName=VDD Pin=C2B-1
+Added Pin To Net: NetName=VDD Pin=C3A-1
+Added Pin To Net: NetName=VDD Pin=C3B-1
+Added Pin To Net: NetName=VDD Pin=C7A-2
+Added Pin To Net: NetName=VDD Pin=C7B-2
+Added Pin To Net: NetName=VDD Pin=R3A-2
+Added Pin To Net: NetName=VDD Pin=R3B-2
+Added Pin To Net: NetName=VDD Pin=U1A-A1
+Added Pin To Net: NetName=VDD Pin=U1B-A1
+Added Net: Name=VDD
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets

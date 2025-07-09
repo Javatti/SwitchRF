@@ -1,0 +1,8 @@
+Added Component: Designator=U1A(BGA6N40P3X2_124X84X67N)
+Added Pin To Net: NetName=VDD Pin=U1A-A1
+Added Pin To Net: NetName=NetC4A_2 Pin=U1A-A2
+Added Pin To Net: NetName=RFOUT_A Pin=U1A-B1
+Added Pin To Net: NetName=NetC5A_2 Pin=U1A-B2
+Added Pin To Net: NetName=GND Pin=U1A-C1
+Added Pin To Net: NetName=NetC6A_2 Pin=U1A-C2
+Added Member To Class: ClassName=Sheet1 Member=Component U1A LMH2110

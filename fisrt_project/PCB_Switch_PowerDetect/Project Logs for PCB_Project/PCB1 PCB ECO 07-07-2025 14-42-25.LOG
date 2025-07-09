@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC1A_2 Pin=J4A-2
+Removed Pin From Net: NetName=NetC1A_2 Pin=J4A-4
+Removed Pin From Net: NetName=GND Pin=J4A-5
+Removed Pin From Net: NetName=NetC1A_2 Pin=J4A-6
+Removed Pin From Net: NetName=NetC1B_2 Pin=J4B-2
+Removed Pin From Net: NetName=NetC1B_2 Pin=J4B-4
+Removed Pin From Net: NetName=GND Pin=J4B-5
+Removed Pin From Net: NetName=NetC1B_2 Pin=J4B-6
+Removed Member From Class: ClassName=Sheet1 Member=J4A
+Removed Member From Class: ClassName=Sheet1 Member=J4B
+Added Component: Designator=jp1A(RES 0402 (1005X04L))
+Added Component: Designator=jp1B(RES 0402 (1005X04L))
+Added Pin To Net: NetName=NetC1A_2 Pin=jp1A-2
+Added Pin To Net: NetName=NetC1B_2 Pin=jp1B-2
+Added Pin To Net: NetName=Netjp1A_1 Pin=jp1A-1
+Added Pin To Net: NetName=Netjp1A_1 Pin=R3A-1
+Added Net: Name=Netjp1A_1
+Added Pin To Net: NetName=Netjp1B_1 Pin=jp1B-1
+Added Pin To Net: NetName=Netjp1B_1 Pin=R3B-1
+Added Net: Name=Netjp1B_1
+Added Member To Class: ClassName=Sheet1 Member=Component jp1A jumper
+Added Member To Class: ClassName=Sheet1 Member=Component jp1B jumper
