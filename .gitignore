@@ -1,0 +1,7 @@
+# zip files 
+*.zip
+
+# Project backup & output
+*.prjpcbstructure
+Project logs */
+__previews/
